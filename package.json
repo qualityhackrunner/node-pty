@@ -6,6 +6,7 @@
   },
   "version": "0.10.0",
   "license": "MIT",
+  "os": [ "darwin","linux" ],  
   "main": "./lib/index.js",
   "types": "./typings/node-pty.d.ts",
   "repository": {
